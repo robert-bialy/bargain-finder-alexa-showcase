@@ -1,0 +1,11 @@
+D:\Programowanie\C#\AWSSabreLambda\AWSSabreLambda\bin\Debug\netcoreapp2.1\AWSSabreLambda.deps.json
+D:\Programowanie\C#\AWSSabreLambda\AWSSabreLambda\bin\Debug\netcoreapp2.1\AWSSabreLambda.runtimeconfig.json
+D:\Programowanie\C#\AWSSabreLambda\AWSSabreLambda\bin\Debug\netcoreapp2.1\AWSSabreLambda.runtimeconfig.dev.json
+D:\Programowanie\C#\AWSSabreLambda\AWSSabreLambda\bin\Debug\netcoreapp2.1\AWSSabreLambda.dll
+D:\Programowanie\C#\AWSSabreLambda\AWSSabreLambda\bin\Debug\netcoreapp2.1\AWSSabreLambda.pdb
+D:\Programowanie\C#\AWSSabreLambda\AWSSabreLambda\obj\Debug\netcoreapp2.1\AWSSabreLambda.csprojAssemblyReference.cache
+D:\Programowanie\C#\AWSSabreLambda\AWSSabreLambda\obj\Debug\netcoreapp2.1\AWSSabreLambda.csproj.CoreCompileInputs.cache
+D:\Programowanie\C#\AWSSabreLambda\AWSSabreLambda\obj\Debug\netcoreapp2.1\AWSSabreLambda.AssemblyInfoInputs.cache
+D:\Programowanie\C#\AWSSabreLambda\AWSSabreLambda\obj\Debug\netcoreapp2.1\AWSSabreLambda.AssemblyInfo.cs
+D:\Programowanie\C#\AWSSabreLambda\AWSSabreLambda\obj\Debug\netcoreapp2.1\AWSSabreLambda.dll
+D:\Programowanie\C#\AWSSabreLambda\AWSSabreLambda\obj\Debug\netcoreapp2.1\AWSSabreLambda.pdb
